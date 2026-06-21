@@ -17,7 +17,7 @@ Building scalable fintech and enterprise web applications 🚀
 
 # 📞 Contact
 
-📧 Email: [satendracoder@gmail.com](mailto:satendracoder@gmail.com)
+📧 Email: [satendracaria@gmail.com](mailto:satendracaria@gmail.com)
 📱 Mobile: +91 8859758708
 🚀 Website: https://www.satendracoder.com
 
@@ -27,15 +27,15 @@ Building scalable fintech and enterprise web applications 🚀
 
 <p align="left">
 
-<a href="https://github.com/satendracoder">
+<a href="https://github.com/satendra2rajput">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/satendracoder">
+<a href="https://linkedin.com/in/satendra2rajput">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/satendracoder">
+<a href="https://leetcode.com/satendra2rajput">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -43,7 +43,7 @@ Building scalable fintech and enterprise web applications 🚀
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:satendracoder@gmail.com">
+<a href="mailto:satendracaria@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

@@ -19,7 +19,7 @@ Building scalable fintech and enterprise web applications 🚀
 
 📧 Email: [satendracaria@gmail.com](mailto:satendracaria@gmail.com)
 📱 Mobile: +91 9953096599
-🚀 Website: https://www.satendracoder.com
+🚀 Website: https://www.satendra2rajput.com
 
 ---
 

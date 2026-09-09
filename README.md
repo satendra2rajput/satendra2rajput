@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satendra</h1>
-<h3 align="center">Software Engineer (Java | Spring Boot | Angular) | Angular Specialist | Full Stack Developer | Fintech | 4+ YOE</h3>
+<h3 align="center">Senior Angular Developer | Full Stack Engineer (Angular + Java Spring Boot) | 4+ Yrs Building Banking & Fintech Applications | Loan Origination Systems | AEPS | RBAC | Angular 21 Migration</h3>
 
 <p align="center">
 Building scalable fintech and enterprise web applications 🚀
@@ -53,12 +53,16 @@ Building scalable fintech and enterprise web applications 🚀
 
 # 👨‍💻 Professional Summary
 
-**Full Stack developer** with **around 4+ years of experience** in building responsive, secure, and scalable web applications using **Angular (v14 18), TypeScript, RxJS**, and Signals. Strong expertise in UI/UX optimization, REST API integration, and JWT-based authentication. 
-Experienced in developing fintech solutions including **AEPS, Recharge, Micro-ATM, Bill Payments, and Banking LOS** modules using 
-reusable and scalable component architecture.- 
-Proficient with modern development tools and workflows including **Git, GitHub, CI/CD pipelines, PWA development, Device SDK**
-integrations, and Postman for API testing. Additionally, I have **2 years of hands-on experience in Java Spring Boot** for developing 
-and maintaining secure REST APIs and backend services.
+Angular specialist and full stack engineer with 4+ years building scalable, production-grade web applications, with deep expertise in
+**Angular (v14–21), TypeScript, RxJS, and Signals**, complemented by Java/Spring Boot backend integration. Proven track record
+leading Angular version migrations, performance optimization, and reusable component architecture in high-stakes banking and
+fintech environments.
+Delivered **Loan Origination Systems, AEPS, Micro-ATM, Recharge, Bill Payments, Cash-Out, and financial dashboards** for major
+banking clients, integrating REST APIs, JWT authentication, Role-Based Access Control (RBAC), Aadhaar-based device SDKs, and
+MySQL. Skilled at modernizing legacy Angular codebases, cutting UI latency, and reducing production defects through disciplined
+debugging and code review.
+Comfortable owning frontend architecture end-to-end in Agile/Scrum teams, from reactive-forms design through lazy loading,
+module splitting, and interceptor-based security — with backend fluency to unblock full-stack delivery.
 
 ---
 
@@ -74,44 +78,46 @@ and maintaining secure REST APIs and backend services.
 
 | Category | Technologies |
 |--------|-------------|
-| **Frontend** | Angular 14–18, RxJS, TypeScript, JavaScript, HTML5, CSS3, SCSS, Angular Material, Bootstrap, Tailwind |
-| **Backend** | Java, Spring Boot, REST APIs, JWT Authentication |
+| **Angular (Primary)** | Angular 14–21, RxJS, Signals, Reactive Forms, Angular Material, Lazy Loading, Module Splitting, Interceptors,
+Zone-less Change Detection, Angular 19→21 Migration |
+| **Frontend** | TypeScript, JavaScript, HTML5, CSS3, SCSS, Bootstrap, Tailwind, PWA, TWA, Cross-browser Compatibility |
+| **Backend** | Java, Spring Boot, REST APIs, JWT Authentication, Spring Security, Microservices |
 | **Database** | MySQL |
-| **DevOps / CI-CD** | Jenkins, GitHub Actions, Docker |
-| **Tools** | Git, GitHub, Postman, IntelliJ IDEA, VS Code |
-| **Project Management** | Jira, Scrum, Microsoft Teams |
-| **Other** | PWA, TWA,  Device SDK Integration, Mantra Bio, Micro-ATM |
-| **Concepts** | Reactive Forms, Lazy Loading, Module Splitting, Interceptors, RBAC, Reusable Components |
+| **Architecture & Security** | Role-Based Access Control (RBAC), Reusable Component Design, Aadhaar Authentication, Debugging &
+Performance Optimization |
+| **Device Integration** | Mantra, Morpho, Micro-ATM SDKs |
+| **Tools** |  Git, GitHub, GitHub Actions, Postman, IntelliJ IDEA, Jira, Docker |
 
 ---
 
 # 💼 Professional Experience
 
-### Full Stack Developer (Angular + Java)
+### Software Engineer (Angular + Java)
 
 **Vastika Technologies — Contract**
-Dec 2024 – Present
+Dec 2024 – Sept 2026 | Contract
 
-* Built configurable multi-step loan journeys for **ADCB Loan Origination System** using Angular, improving loan onboarding workflow efficiency by 30%. 
-* Implemented dynamic UI rendering using backend-driven flags (**ROI, processing fee, security, stock statement, limits**). 
-* Worked on document **upload**, customer data capture, **eligibility checks**, and application tracking modules. 
-* Developed dealer-focused loan application flows and dashboards for **Axis Bank LOS**.
-
+* Led Angular-based multi-step loan journey development for ADCB Loan Origination System, improving loan onboarding
+workflow efficiency by 30%.
+* Delivered user stories, resolved production bugs, and shipped UI enhancements against business requirements in sprint cycles. 
+* Engineered dynamic, backend-flag-driven UI rendering for ROI, processing fees, security, stock statements, and credit limits.
+* Built document upload, customer data capture, eligibility verification, and application tracking modules end-to-end in Angular.
+* Enhanced dealer-focused loan workflows and dashboards for Axis Bank Loan Origination System (LOS).
+* **Led the Angular 19 → 21 migration** — upgrading dependencies, resolving breaking changes, and refactoring deprecated APIs for
+a zero-downtime transition.
 ---
 
-### Full Stack Developer (Angular + Java)
+### Software Engineer (Angular + Java)
 
 **Redmil Business Mall —**
 May 2024 – Nov 2025
 
-* Enhanced and maintained **full-stack** web applications using **Java Spring Boot and Angular 18**. 
-* Built fintech modules including **AEPS, Micro-ATM, Recharge, Bill Payment**, and Cash-Out with end-to-end API integration. 
-* Implemented secure **role-based access control** (Admin, Agent, Retailer) using JWT. 
-* Integrated **Mantra, Morpho biometric**, and **Micro-ATM devices** using **Angular SDKs** for Aadhaar-based authentication — 
-achieved 90% success rate and reduced transaction **errors by 40%**.
-* Collaborated with backend teams for **API optimization**, error handling, and secure integration. 
-* Created **Java Spring Boot backend** services for data extraction and export via **REST APIs**, improving processing efficiency and 
-scalability. 
+* Maintained and extended Angular-based fintech applications integrated with a Java Spring Boot backend.
+* Built fintech modules — AEPS, Micro-ATM, Recharge, Bill Payment, and Cash-Out — with full end-to-end REST API integration.
+* Implemented JWT-based Role-Based Access Control (RBAC) across Admin, Agent, and Retailer user roles.
+* **Integrated Mantra, Morpho, and Micro-ATM device SDKs** for Aadhaar-based authentication, cutting transaction errors by 40%.
+* Collaborated with backend teams to optimize REST APIs, strengthen error handling, and harden API security.
+* Built Spring Boot REST APIs for data extraction and export, improving processing efficiency and scalability.
 
 ---
 
@@ -120,48 +126,41 @@ scalability.
 **Redmil Business Mall  —**
 Apr 2022 – Apr 2024
 
-* Expanded and optimized **Angular applications for financial services**. 
-* Improved **UI/UX** and resolved API synchronization issues in **HDFC Loan CRM**, reducing lead processing time. 
-* Optimized reusable **Angular components** for real-time financial dashboards, reducing development time for **new modules by 
-40%**. 
-* Reduced **UI latency by 35%** using zone-less patterns and **manual change detection**. 
-
-
----
-
-# 🚀 Projects
-
-### Satendracoder Developer Suite (Open Source)
-
-* A full-stack platform built under the personal brand **"Satendra Coder"** featuring developer resources, blogging, and learning 
-modules. 
-
-* **Tech:** Angular • Spring Boot • JWT • MySQL • Docker
+* Enhanced Angular-based financial applications with new features, improving scalability and performance.
+* Resolved UI/UX issues and API synchronization challenges in HDFC Loan CRM, cutting lead processing time and improving user
+experience.
+* Designed reusable Angular components for real-time financial dashboards, cutting development effort for new modules by 40%.
+* Reduced UI latency by 35% through zone-less patterns and manual change detection techniques
 
 ---
 
-### ADCB Loan Origination System
+# 🚀 KEY PROJECTS
 
-* Built configurable multi-step loan journeys in Angular integrated with Java Spring Boot APIs for end-to-end loan onboarding. 
-
-* **Tech:** Angular, Angular Material, Jira, Git, GitHub, Scrum
-
----
-
-### Axis Bank Dealer LOS
-
-* Developed dealer-focused loan origination flows, dashboards, and application tracking modules in Angular with backend 
-integration. 
-
-* **Tech:** - Angular, Angular Material, Jira, Spring Boot, MySQL 
+### Vastika Technologies — Axis Bank LOS (Dealer Journey) (Angular)
+* Expanded dealer-focused loan origination flows, dashboards, and application-tracking modules in Angular with backend
+integration.
+* Tech: Angular, Angular Material, Jira, Spring Boot, MySQL.
 
 ---
 
-### Redmil FinTech Platform
+### Vastika Technologies — ADCB Loan Origination System (Angular)
+* Built configurable multi-step loan journeys in Angular, integrated with Java Spring Boot APIs, for end-to-end loan onboarding. 
+* Tech: Angular, Angular Material, Jira, Git, GitHub, Scrum.
 
-* Developed a full-featured fintech web application supporting AEPS, Recharge, Bill Payments, Wallet Transactions, and Micro
- ATM services. Implemented secure login, authentication & authorization, transaction dashboards, and API integration for 
- payments. Designed UI/UX and consumed APIs for multiple financial services modules independently. 
+---
+
+### Redmil Fin-tech Platform — Banking & Payments
+
+* Built a full-featured fintech web application spanning AEPS, Recharge, Bill Payments, Wallet Transactions, and Micro-ATM
+services, with secure login, authorization, transaction dashboards, and independent API integration across modules. 
+* Tech: - Angular, Angular Material, Spring Boot, MySQL 
+
+---
+
+### Redmil Website — PPF (Paint Protection Film) (Angular)
+
+* Built a dynamic Angular website for paint protection film services, including car listings, product management, blogs, and an
+admin dashboard.
 * **Tech:** - Angular, Angular Material, REST APIs, JWT, RxJS 
 
 ---
@@ -171,14 +170,6 @@ integration.
 * Built an Angular-based CRM for customer on-boarding, loan application workflows, and approval process with secure API 
 integration. 
 * **Tech:** - Angular, Angular Material, REST APIs, JWT, RxJS, GitHub, Postman
-
----
-
-### Redmil PPF (Paint Protection Film) 
-
-* Developed a dynamic Angular website for paint protection film services including car listings, product management, blogs, and 
-admin dashboard.  
-* **Tech:** - Angular, Angular Material, REST APIs, JWT, RxJS, GitHub, Postman 
 
 ---
 

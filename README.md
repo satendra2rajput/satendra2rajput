@@ -82,8 +82,7 @@ module splitting, and interceptor-based security — with backend fluency to unb
 | **Frontend** | TypeScript, JavaScript, HTML5, CSS3, SCSS, Bootstrap, Tailwind, PWA, TWA, Cross-browser Compatibility |
 | **Backend** | Java, Spring Boot, REST APIs, JWT Authentication, Spring Security, Microservices |
 | **Database** | MySQL |
-| **Architecture & Security** | Role-Based Access Control (RBAC), Reusable Component Design, Aadhaar Authentication, Debugging &
-Performance Optimization |
+| **Architecture & Security** | Role-Based Access Control (RBAC), Reusable Component Design, Aadhaar Authentication, Debugging & Performance Optimization |
 | **Device Integration** | Mantra, Morpho, Micro-ATM SDKs |
 | **Tools** |  Git, GitHub, GitHub Actions, Postman, IntelliJ IDEA, Jira, Docker |
 

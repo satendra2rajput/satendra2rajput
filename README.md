@@ -176,12 +176,9 @@ integration.
 | Tool / Extension        | Description                                                      | Type              |
 | ----------------------- | ---------------------------------------------------------------- | ---------------- |
 | SC-Angular-Generator     | Automates Angular boilerplate generation for components, services, and modules. | VS Code Extension |
-| @kudoengineer/http        |Production-ready Angular HTTP client with authentication, retry, timeout, cancellation, caching, request
-deduplication, request IDs, logging and Signals.    | NPM Library       |
+| @kudoengineer/http        |Production-ready Angular HTTP client with authentication, retry, timeout, cancellation, caching, request deduplication, request IDs, logging and Signals.   | NPM Library       |
 | @kudoengineer/toast      |  Modern Angular toast notification library with standalone architecture, Signals and tree-shakable design.    | NPM Library       |
-| @kudoengineer/loader      | Customizable Angular loader library with 20 loader types, manual controls, overlay support and
-HTTP interceptor integration.
-    | NPM Library       |
+| @kudoengineer/loader      | Customizable Angular loader library with 20 loader types, manual controls, overlay support and HTTP interceptor integration. | NPM Library       |
 | @kudoengineer/permission      | Angular permission and role-based access control library for implementing authorization at the UI/application layer.    | NPM Library       |
 | @kudoengineer/theme      | Angular theme management library supporting Light, Dark and System themes.| NPM Library       |
 | @kudoengineer/storage      | Useful, but comparatively less impressive   | NPM Library       |

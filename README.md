@@ -176,7 +176,8 @@ integration.
 | Tool / Extension        | Description                                                      | Type              |
 | ----------------------- | ---------------------------------------------------------------- | ---------------- |
 | SC-Angular-Generator     | Automates Angular boilerplate generation for components, services, and modules. | VS Code Extension |
-| SC Angular Loader        | Lightweight loader library for Angular standalone components.    | NPM Library       |
+| @kudoengineer/http        |Production-ready Angular HTTP client with authentication, retry, timeout, cancellation, caching, request
+deduplication, request IDs, logging and Signals.    | NPM Library       |
 | SC Angular Toastify      | Toast notification library for Angular standalone components.    | NPM Library       |
 ---
 

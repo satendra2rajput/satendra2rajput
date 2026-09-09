@@ -78,8 +78,7 @@ module splitting, and interceptor-based security — with backend fluency to unb
 
 | Category | Technologies |
 |--------|-------------|
-| **Angular (Primary)** | Angular 14–21, RxJS, Signals, Reactive Forms, Angular Material, Lazy Loading, Module Splitting, Interceptors,
-Zone-less Change Detection, Angular 19→21 Migration |
+| **Angular (Primary)** | Angular 14–21, RxJS, Signals, Reactive Forms, Angular Material, Lazy Loading, Module Splitting, Interceptors, Zone-less Change Detection, Angular 19→21 Migration |
 | **Frontend** | TypeScript, JavaScript, HTML5, CSS3, SCSS, Bootstrap, Tailwind, PWA, TWA, Cross-browser Compatibility |
 | **Backend** | Java, Spring Boot, REST APIs, JWT Authentication, Spring Security, Microservices |
 | **Database** | MySQL |

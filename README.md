@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satendra</h1>
-<h3 align="center">Senior Angular Developer | Full Stack Engineer (Angular + Java Spring Boot) | 4+ Yrs Building Banking & Fintech Applications | Loan Origination Systems | AEPS | RBAC | Angular 21 Migration</h3>
+<h3 align="center">Full Stack Engineer (Angular + Java Spring Boot) | 4.5+ Yrs Building Banking & Fintech Applications | Loan Origination Systems | AEPS | RBAC | Angular 21 Migration</h3>
 
 <p align="center">
 Building scalable fintech and enterprise web applications 🚀
@@ -81,7 +81,7 @@ module splitting, and interceptor-based security — with backend fluency to unb
 | **Angular (Primary)** | Angular 14–21, RxJS, Signals, Reactive Forms, Angular Material, Lazy Loading, Module Splitting, Interceptors, Zone-less Change Detection, Angular 19→21 Migration |
 | **Frontend** | TypeScript, JavaScript, HTML5, CSS3, SCSS, Bootstrap, Tailwind, PWA, TWA, Cross-browser Compatibility |
 | **Backend** | Java, Spring Boot, REST APIs, JWT Authentication, Spring Security, Microservices |
-| **Database** | MySQL |
+| **Database** | PostgreSQL |
 | **Architecture & Security** | Role-Based Access Control (RBAC), Reusable Component Design, Aadhaar Authentication, Debugging & Performance Optimization |
 | **Device Integration** | Mantra, Morpho, Micro-ATM SDKs |
 | **Tools** |  Git, GitHub, GitHub Actions, Postman, IntelliJ IDEA, Jira, Docker |
@@ -137,7 +137,7 @@ experience.
 ### Vastika Technologies — Axis Bank LOS (Dealer Journey) (Angular)
 * Expanded dealer-focused loan origination flows, dashboards, and application-tracking modules in Angular with backend
 integration.
-* Tech: Angular, Angular Material, Jira, Spring Boot, MySQL.
+* Tech: Angular, Angular Material, Jira, Spring Boot, MySQL, PostgreSQL.
 
 ---
 
@@ -151,7 +151,7 @@ integration.
 
 * Built a full-featured fintech web application spanning AEPS, Recharge, Bill Payments, Wallet Transactions, and Micro-ATM
 services, with secure login, authorization, transaction dashboards, and independent API integration across modules. 
-* Tech: - Angular, Angular Material, Spring Boot, MySQL 
+* Tech: - Angular, Angular Material, Spring Boot, MySQL, PostgreSQL. 
 
 ---
 

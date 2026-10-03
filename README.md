@@ -61,7 +61,7 @@ Outside work I run **KudoEngineer**, an independent developer platform for Angul
 
 <img src="assets/sec-03.svg" width="100%" alt="Experience"/>
 
-<img src="assets/experience.svg" width="100%" alt="Experience: Kudo Engineer, Vastika Technologies, Redmil Business Mall"/>
+<img src="assets/experience-v2.svg" width="100%" alt="Experience: Kudo Engineer, Vastika Technologies, Redmil Business Mall"/>
 
 <details>
 <summary><b>Full experience details</b></summary>

@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/satendra2rajput"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/satendra2rajput"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.satendra2rajput.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.npmjs.com/~kudoengineer"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+  <a href="https://www.npmjs.com/~serotask"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
   <a href="mailto:satendracaria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -33,7 +33,7 @@ Senior Software Engineer with 4.5+ years building Angular and Java Spring Boot a
 
 Earlier I delivered **AEPS, Micro-ATM, Recharge, Bill Payment and Cash-Out** platforms with JWT-based RBAC, and integrated Mantra, Morpho and Micro-ATM devices for Aadhaar-based authentication (90% success rate, transaction errors down 40%).
 
-Outside work I run **KudoEngineer**, an independent developer platform for Angular, Java, Spring Boot, DSA, System Design and interview preparation, and I publish the **@kudoengineer** Angular NPM packages. Pursuing an MCA at Avviare Educational Hub.
+Outside work I am building **Serotask**, an all-in-one platform offering 300+ PDF, image, SEO and developer tools, including practical online editors. I also publish Angular NPM packages under the **@serotask** scope. Pursuing an MCA at Avviare Educational Hub.
 </details>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -61,17 +61,17 @@ Outside work I run **KudoEngineer**, an independent developer platform for Angul
 
 <img src="assets/sec-03.svg" width="100%" alt="Experience"/>
 
-<img src="assets/experience-v2.svg" width="100%" alt="Experience: Kudo Engineer, Vastika Technologies, Redmil Business Mall"/>
+<img src="assets/experience-v2.svg" width="100%" alt="Experience: Serotask, Vastika Technologies, Redmil Business Mall"/>
 
 <details>
 <summary><b>Full experience details</b></summary>
 <br/>
 
-**Independent Software Engineer, Kudo Engineer** · Self-employed
+**Founder & Developer, Serotask** · Self-employed
 Jul 2026 - Present · 4 mos · Noida, Uttar Pradesh, India · Remote
-Building KudoEngineer, an independent developer platform focused on Angular, Java, Spring Boot, DSA, System Design and interview preparation.
+Building Serotask, an all-in-one platform with 300+ PDF, image, SEO and developer tools, plus online editors.
 * Designed and developed a production-ready Angular application with a Java/Spring Boot backend.
-* Built and published reusable Angular NPM packages under the @kudoengineer ecosystem.
+* Built and published reusable Angular NPM packages under the @serotask ecosystem.
 * Implemented reusable UI utilities, HTTP handling, authentication/authorization patterns and developer-focused tooling.
 * Managed application deployment, API infrastructure, domain, SSL and production configuration.
 * Created technical resources and interview preparation content for Angular and Full Stack developers.
@@ -122,17 +122,16 @@ Developed front-end modules for Axis Bank's Angular-based Loan Origination Syste
 
 <img src="assets/sec-05.svg" width="100%" alt="Projects"/>
 
-<img src="assets/projects.svg" width="100%" alt="Key projects: KudoEngineer.com, Serotask, Axis Bank Dealer Onboarding, ADCB LOS, Fintech Platform, HDFC Loan Applications"/>
+<img src="assets/projects.svg" width="100%" alt="Key projects: Serotask, Axis Bank Dealer Onboarding, ADCB LOS, Fintech Platform, HDFC Loan Applications"/>
 
 <p align="center">
-  🔗 <a href="https://kudoengineer.com">KudoEngineer.com</a> &nbsp;•&nbsp; 🔗 <a href="https://serotask.com">Serotask.com</a>
+  🔗 <a href="https://serotask.com">Serotask.com</a>
 </p>
 
 <details>
 <summary><b>More project details</b></summary>
 <br/>
 
-* **KudoEngineer.com**: developer-focused platform to help software engineers learn, practice, and prepare for real-world development and technical interviews.
 * **Axis Bank, Dealer Onboarding &amp; Group Entity Management**: onboarding flow, Group Founder and Entity management; journeys for dealer registration, verification and group/entity mapping, with stronger form validation, error handling and stepper flows.
 * **Serotask**: all-in-one SaaS platform with AI writing tools, PDF solutions, SEO utilities, image tools and smart online tools.
 * **ADCB Bank LOS, Borrower Journey**: stepper-based flow for loan application, document upload, validation and status tracking, from application initiation to submission.
@@ -146,24 +145,21 @@ Developed front-end modules for Axis Bank's Angular-based Loan Origination Syste
 
 <img src="assets/sec-06.svg" width="100%" alt="Angular Utilities"/>
 
-<img src="assets/tools.svg" width="100%" alt="Angular utilities: KudoEngineer Angular Toolkit and @kudoengineer npm packages"/>
+<img src="assets/tools.svg" width="100%" alt="Serotask Angular NPM packages: loader and toaster"/>
 
 <details>
-<summary><b>npm package links</b></summary>
+<summary><b>Serotask Angular NPM packages</b></summary>
 <br/>
 
-[toast](https://www.npmjs.com/package/@kudoengineer/toast) •
-[loader](https://www.npmjs.com/package/@kudoengineer/loader) •
-[seo](https://www.npmjs.com/package/@kudoengineer/seo) •
-[storage](https://www.npmjs.com/package/@kudoengineer/storage) •
-[modal](https://www.npmjs.com/package/@kudoengineer/modal) •
-[permission](https://www.npmjs.com/package/@kudoengineer/permission) •
-[http](https://www.npmjs.com/package/@kudoengineer/http) •
-[theme](https://www.npmjs.com/package/@kudoengineer/theme) •
-[validator](https://www.npmjs.com/package/@kudoengineer/validator) •
-[forms](https://www.npmjs.com/package/@kudoengineer/forms)
+### [@serotask/angular-loader](https://www.npmjs.com/package/@serotask/angular-loader)
 
-All packages: [npmjs.com/~kudoengineer](https://www.npmjs.com/~kudoengineer)
+Modern, lightweight Angular loader: 20 animations, HTTP interceptor, manual control, global config, flicker-free delay/min-duration, accessible and SSR-safe.
+
+### [@serotask/angular-toaster](https://www.npmjs.com/package/@serotask/angular-toaster)
+
+Modern toast notifications for Angular: 4 types, 6 positions, queue, hover-to-pause, themes, animations, actions. Standalone, Signals, accessible and SSR-safe.
+
+All packages: [npmjs.com/~serotask](https://www.npmjs.com/~serotask)
 </details>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -201,7 +197,7 @@ All packages: [npmjs.com/~kudoengineer](https://www.npmjs.com/~kudoengineer)
   📧 <a href="mailto:satendracaria@gmail.com">satendracaria@gmail.com</a> &nbsp;•&nbsp;
   🌐 <a href="https://www.satendra2rajput.com">satendra2rajput.com</a> &nbsp;•&nbsp;
   💼 <a href="https://linkedin.com/in/satendra2rajput">LinkedIn</a> &nbsp;•&nbsp;
-  📦 <a href="https://www.npmjs.com/~kudoengineer">npm</a>
+  📦 <a href="https://www.npmjs.com/~serotask">Serotask npm packages</a>
 </p>
 
 <p align="center">
